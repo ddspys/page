@@ -15,7 +15,7 @@ All children, except one, grow up. They soon know that they will grow up, and th
 
 ![Profile](/page/_posts/KakaoTalk_Photo_2024-07-01-18-01-42-1.jpeg)
 
-![Profile](page/assets/images/bio-photo.jpg)
+![Profile](/page/assets/images/bio-photo.jpg)
 
 <img src="/page/assets/images/bio-photo.jpg">
 
