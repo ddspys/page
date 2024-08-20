@@ -16,7 +16,7 @@
 
 
 url: https://ddspys.github.io
-baseurl: /page
+baseurl: /page/
 title: MM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
