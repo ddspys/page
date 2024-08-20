@@ -17,6 +17,6 @@ All children, except one, grow up. They soon know that they will grow up, and th
 
 ![Profile](./assets/images/bio-photo.jpg)
 
-<img src="/assets/images/bio-photo.jpg">
+<img src="/page/assets/images/bio-photo.jpg">
 
 hello
