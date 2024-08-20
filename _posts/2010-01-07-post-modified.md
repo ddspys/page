@@ -19,7 +19,7 @@ All children, except one, grow up. They soon know that they will grow up, and th
 
 <img src="/page/assets/images/bio-photo.jpg">
 
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}assets/images/bio-photo.jpg) {% endraw %}
+{% raw %} {{site.url}} {{site.baseurl}} {% endraw %}
 {% raw %}![alt]({{ site.url }}{{ site.baseurl }}_posts/KakaoTalk_Photo_2024-07-01-18-01-42-1.jpeg) {% endraw %}
 
 hello
